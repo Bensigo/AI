@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Development"
+  short_description: "Develop and test with Blender 5.2 LTS"
+  default_prompt: "Use $blender-development to build or debug this Blender Python workflow against Blender 5.2 LTS."
